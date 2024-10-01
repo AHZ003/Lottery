@@ -3,3 +3,4 @@ Ask the user how many draws to make.
 Limit the draw to a maximum of 6 draws. If the user entered a draw number
 >6, ask the user to resubmit a number, which must be <=6.
 Use try and except loop to avoid user input error
+Now it can throw a dice as well
